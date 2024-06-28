@@ -30,3 +30,5 @@ print(f"The area of the rectangle is {rectangle_area}")
 
 print_pattern(4)
 
+
+
